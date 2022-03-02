@@ -46,9 +46,9 @@
                     "version": "v1.3arm-custom",
                     "systems": [
                         {
-                            "host": "armv7l-linux-gnu",
-                            "url": "https://github.com/frederico-betting/bossac/releases/download/v1.3arm-custom/bossac-udoo-1.3a-1.0-armv7l-linux-gnu.tar.bz2",
-                            "archiveFileName": "bossac-udoo-1.3a-1.0-armv7l-linux-gnu.tar.bz2",
+                            "host": "armv7l-linux-udoo",
+                            "url": "https://github.com/frederico-betting/bossac/releases/download/v1.3arm-custom/bossac-udoo-1.3a-1.0-armv7l-linux-udoo.tar.bz2",
+                            "archiveFileName": "bossac-udoo-1.3a-1.0-armv7l-linux-udoo.tar.bz2",
                             "checksum": "SHA-256:3bcf0e3f032e33bcbcb4b89f0a60cb2b13c93a418398cc9d504d165a6052ecb7",
                             "size": "184578"
                         }
