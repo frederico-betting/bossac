@@ -14,7 +14,7 @@
                     "architecture": "sam",
                     "version": "1.6.7",
                     "category": "Contributed",
-                    "url": "https://github.com/frederico-betting/bossac/releases/download/v1.3arm-custom/udooqdl-arduino-sam-1.6.7.tar.bz2",
+                    "url": "https://github.com/udoo-tools/bossac/releases/download/v1.3arm-custom/udooqdl-arduino-sam-1.6.7.tar.bz2",
                     "archiveFileName": "udooqdl-arduino-sam-1.6.7.tar.bz2",
                     "checksum": "SHA-256:6b6ba7d05e146117a01878012bb5bf9c5d4e4d6c761421f6d641a1db5f73be46",
                     "size": "3822968",
@@ -47,7 +47,7 @@
                     "systems": [
                         {
                             "host": "arm-linux-gnueabihf",
-                            "url": "https://github.com/frederico-betting/bossac/releases/download/v1.3arm-custom/bossac-udoo-1.3arm-custom-arm-linux-gnueabihf.tar.bz2",
+                            "url": "https://github.com/udoo-tools/bossac/releases/download/v1.3arm-custom/bossac-udoo-1.3arm-custom-arm-linux-gnueabihf.tar.bz2",
                             "archiveFileName": "bossac-udoo-1.3arm-custom-arm-linux-gnueabihf.tar.bz2",
                             "checksum": "SHA-256:45405e1e41cfc7efd05383227cd38fbdc0a105a0cfdc900f929c24965812e22f",
                             "size": "184517"
